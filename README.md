@@ -33,19 +33,22 @@ For complete documentation, refer to [ASP.NET Core Web API Documentation](https:
 ## Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/CCCAssignment.git ``
+   ```console
+   git clone https://github.com/username/CCCAssignment.git
+   ```
 
 2. Navigate to the project directory:
-  ```bash
-  cd Assignment1 ```
+  ```console
+     cd Assignment1
+  ```
 
 3. Run the project:
-  ```bash
-   dotnet run ```
+  ```console
+   dotnet run
+  ```
 
 ## Examnple Code
-```csharp
+```js
 // Example for calculating chili spiciness in J2Controller
     [HttpGet("ChiliPeppers")]
     public IActionResult CalculateSpiciness([FromQuery] string ingredients)
