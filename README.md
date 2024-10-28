@@ -34,7 +34,7 @@ For complete documentation, refer to [ASP.NET Core Web API Documentation](https:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/CCCAssignment.git ```
+   git clone https://github.com/username/CCCAssignment.git ``
 
 2. Navigate to the project directory:
   ```bash
